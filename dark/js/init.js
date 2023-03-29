@@ -174,7 +174,7 @@ var eric = function (){
 	
 	/*Typed js start*/
 	$("#typed").typed({
-		strings: ["^2100&nbsp;I Am Pauline Rotich.<br/>Senior Director EHS Center of Excellence at Microsoft."],
+		strings: ["^2100&nbsp;I Am Pauline Rotich.<br/>Senior Director EHS Global leader at Microsoft."],
 		typeSpeed: 30,
 		backDelay: 750,
 		loop: false,
